@@ -1,0 +1,6 @@
+ask = int(input("Enter your number, and I will check if it is prime: "))
+x = 2
+if ask == 1:
+    print(str(ask) + " is not prime")
+elif ask == 2:
+    print(str(ask) + " is prime!")
